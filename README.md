@@ -20,7 +20,7 @@ Thank you for choosing Webtools for your web development needs!
 
 - <b>Android, MacOS</b> 
 
-*For captures of the site and API documentation, please visit the file in this repository.
+*For captures of the site and API documentation, please visit the img files in this repository.
 <!--
  ```diff
 - text in red
